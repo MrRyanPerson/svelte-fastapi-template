@@ -1,8 +1,6 @@
 # Svelte & Fastapi Website Template
 
-Made because I don't like javascript and I like python.
-
-## To use
+## Usage
 
 1. Clone the repository
    ```bash
