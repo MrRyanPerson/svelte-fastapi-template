@@ -1,5 +1,8 @@
 # Svelte & Fastapi Website Template
 
+> [!NOTE]
+> This is archived but probably still works.
+
 ## Usage
 
 1. Clone the repository
